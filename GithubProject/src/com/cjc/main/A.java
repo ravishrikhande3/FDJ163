@@ -16,6 +16,8 @@ public class A {
 		System.out.println("A Class");
 		
 		System.out.println("Oye hoy oye hoye");
+
+		System.out.println("Badho Badi badho badi");
 	}
 
 }
